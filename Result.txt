@@ -1,0 +1,5 @@
+List 1 smallest: (1, 2)
+List 2 smallest: (1, 4)
+List 3 smallest: (134, 169)
+List 4 smallest: List is too short
+List 5 smallest: List is too short
